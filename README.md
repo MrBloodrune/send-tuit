@@ -55,16 +55,9 @@ cargo install send-tuit
 
 ### Pre-built binaries
 
-Download from [GitHub Releases](https://github.com/MrBloodrune/send-tuit/releases/latest) (Linux, macOS, Windows).
+Download from [GitHub Releases](https://github.com/MrBloodrune/send-tuit/releases/latest).
 
-| Platform | Binary |
-|----------|--------|
-| Linux x86_64 | `tuit-*-x86_64-unknown-linux-gnu.tar.gz` |
-| Linux x86_64 (static) | `tuit-*-x86_64-unknown-linux-musl.tar.gz` |
-| Linux ARM64 | `tuit-*-aarch64-unknown-linux-gnu.tar.gz` |
-| macOS Intel | `tuit-*-x86_64-apple-darwin.tar.gz` |
-| macOS Apple Silicon | `tuit-*-aarch64-apple-darwin.tar.gz` |
-| Windows | `tuit-*-x86_64-pc-windows-msvc.zip` |
+Available for: Linux (x86_64, ARM64), macOS (Intel, Apple Silicon), Windows
 
 ### From source
 
